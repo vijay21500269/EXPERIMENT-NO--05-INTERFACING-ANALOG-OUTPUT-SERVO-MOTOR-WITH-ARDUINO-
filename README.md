@@ -98,8 +98,8 @@ void loop()
 
 
 
-###OUTPUT:
-![output]()
+### OUTPUT:
+![output](https://github.com/vijay21500269/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/Screenshot%20(22).png)
 
 
 ### RESULTS: 
